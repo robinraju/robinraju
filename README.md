@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Robin</h1>
 
-<h4 align="center">London-based Senior Software Engineer with several years of specialised experience in designing highly scalable microservices and distributed systems, with a keen focus on functional programming.</h4>
+<h5 align="center">Software Engineer with several years of specialised experience in designing highly scalable microservices and distributed systems, with a keen focus on functional programming.</h5>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <div style="display: flex; flex-direction: row; gap: 10px; margin-top:10px;">
@@ -180,7 +180,7 @@
   </div>
 </div>
 
-<h3 align="left">My social profiles:</h3>
+<h4 align="left">My social profiles:</h4>
 <p align="left">
 <a href="https://mas.to/@rob_in" target="blank"><img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="https://mas.to/@rob_in" height="30" width="30" /></a>
 <a href="https://x.com/rbn_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="https://x.com/rbn_raj" height="30" width="30" /></a>
