@@ -2,8 +2,9 @@
 
 <h4 align="center">London-based Senior Software Engineer with several years of specialised experience in designing highly scalable microservices and distributed systems, with a keen focus on functional programming.</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social profiles:</h3>
 <p align="left">
+<a href="https://mas.to/@rob_in" target="blank"><img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="https://mas.to/@rob_in" height="30" width="40" /></a>
 <a href="https://x.com/rbn_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="https://x.com/rbn_raj" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/robinnraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/robinnraj/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3289282/robin-raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="https://stackoverflow.com/users/3289282/robin-raju" height="30" width="40" /></a>
