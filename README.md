@@ -32,8 +32,16 @@
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"
         alt="nodejs"
+        width="30"
+        height="30"
+      />
+    </a>
+    <a href="[https://nodejs.org](https://go.dev/)" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
+        alt="go"
         width="30"
         height="30"
       />
