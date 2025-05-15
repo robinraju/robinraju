@@ -188,13 +188,5 @@
   </div>
 </div>
 
-<h4 align="left">My social profiles:</h4>
-<p align="left">
-<a href="https://mas.to/@rob_in" target="blank"><img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="https://mas.to/@rob_in" height="30" width="30" /></a>
-<a href="https://x.com/rbn_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="https://x.com/rbn_raj" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/robinnraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/robinnraj/" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/3289282/robin-raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="https://stackoverflow.com/users/3289282/robin-raju" height="30" width="30" /></a>
-</p>
-
 <br/>
 <img src="./assets/never_gonna_let_you_down.gif" alt="drawing" width="1200"/>
